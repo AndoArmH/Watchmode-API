@@ -168,16 +168,3 @@ function showMainMenu() {
 
 // Start the program by showing the main menu
 showMainMenu();
-
-// Export the functions you want to test
-module.exports = {
-    searchMovies,
-    getMovieDetails,
-    getStreamingSources,
-    askForDetails,
-    askForNextStep,
-    askForMovieName,
-    askForAnotherStreamingSearch,
-    askForStreamingSources,
-    showMainMenu
-  };
